@@ -67,6 +67,13 @@ Evidence loader
 The agent does not hide uncertainty. Every finding includes confidence,
 supporting evidence IDs, and the reason it was promoted or rejected.
 
+## Submission Docs
+
+- Architecture diagram and boundaries: `docs/architecture.md`
+- Accuracy and limitation report: `docs/accuracy_report.md`
+- Execution trace: `docs/execution_trace.md`
+- Devpost copy: `docs/DEVPOST_COPY.md`
+
 ## Built With
 
 - Python 3.11 standard library
