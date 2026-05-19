@@ -31,6 +31,14 @@ Generated artifacts:
 - `output/incident_report.json`
 - `output/audit_log.jsonl`
 
+Hosted demo:
+
+https://kevin9327.github.io/protocol-sift-sentinel/
+
+Video demo:
+
+https://youtu.be/pKnt5Ij1VkA
+
 ## Demo Scenario
 
 The bundled evidence simulates a small intrusion:
@@ -71,4 +79,3 @@ supporting evidence IDs, and the reason it was promoted or rejected.
 This submission focuses on a practical autonomous IR workflow: the agent can
 triage noisy evidence, revise its own conclusion, and hand responders an audit
 ready report rather than a black-box answer.
-

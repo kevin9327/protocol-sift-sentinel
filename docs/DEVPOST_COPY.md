@@ -28,7 +28,18 @@ deterministic evidence correlation, Markdown reports, JSON audit logs.
 
 ## Try It
 
+Hosted demo:
+
+https://kevin9327.github.io/protocol-sift-sentinel/
+
+Repository:
+
+https://github.com/kevin9327/protocol-sift-sentinel
+
+Video demo:
+
+https://youtu.be/pKnt5Ij1VkA
+
 ```powershell
 python -m protocol_sift.cli --evidence evidence --out output
 ```
-
