@@ -1,0 +1,5 @@
+event_id,timestamp,host,actor,action,target,detail
+WEB-001,2026-05-20T00:13:42Z,web-01,198.51.100.9,http_post,/upload,ua=curl status=200
+WEB-002,2026-05-20T00:13:44Z,web-01,198.51.100.9,web_upload,/var/www/html/uploads/invoice.php,bytes=4812 mime=application/x-php
+WEB-003,2026-05-20T00:14:03Z,web-01,198.51.100.9,http_get,/uploads/invoice.php?cmd=id,status=200
+

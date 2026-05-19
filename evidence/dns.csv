@@ -1,0 +1,3 @@
+event_id,timestamp,host,actor,action,target,detail
+DNS-001,2026-05-20T00:14:08Z,web-01,system,dns_query,evil-sync.example,new-domain=true ttl=60
+

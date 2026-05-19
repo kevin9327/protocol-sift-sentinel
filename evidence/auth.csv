@@ -1,0 +1,8 @@
+event_id,timestamp,host,actor,action,target,detail
+AUTH-001,2026-05-20T00:10:11Z,web-01,203.0.113.77,ssh_failed_password,app-admin,source_asn=AS64577 attempt=1
+AUTH-002,2026-05-20T00:10:16Z,web-01,203.0.113.77,ssh_failed_password,app-admin,source_asn=AS64577 attempt=2
+AUTH-003,2026-05-20T00:10:20Z,web-01,203.0.113.77,ssh_failed_password,app-admin,source_asn=AS64577 attempt=3
+AUTH-004,2026-05-20T00:10:24Z,web-01,203.0.113.77,ssh_failed_password,app-admin,source_asn=AS64577 attempt=4
+AUTH-005,2026-05-20T00:10:30Z,web-01,203.0.113.77,ssh_failed_password,app-admin,source_asn=AS64577 attempt=5
+AUTH-006,2026-05-20T00:11:02Z,web-01,203.0.113.77,ssh_success,app-admin,source_asn=AS64577 new_device=true
+
